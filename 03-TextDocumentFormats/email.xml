@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<emails>
+    <email>
+        <sendersEmail>243329@student.uek.krakow.pl</sendersEmail>
+        <sendersName>Maksym Prylukin</sendersName>
+        <receiversEmail>123456@student.uek.krakow.pl</receiversEmail>
+        <receiversName>John Smith</receiversName>
+        <subject>Test</subject>
+        <messagebody>test email 123<messagebody>
+    </email>
+</emails>

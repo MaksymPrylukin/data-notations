@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<transports>
+    <transport>
+        <type>tram</type>
+        <speed speedtype="Kilometers per hour">70</speed>
+        <pasengersCapacity>100</pasengersCapacity>
+        <ticketPrice currency="PLN">4</ticketPrice>
+    </transport>
+    <transport>
+        <type>bus</type>
+        <speed speedtype="Kilometers per hour">55</speed>
+        <pasengersCapacity>30</pasengersCapacity>
+        <ticketPrice currency="PLN">4</ticketPrice>
+    </transport>
+    <transport>
+        <type>train</type>
+        <speed speedtype="Kilometers per hour">100</speed>
+        <pasengersCapacity>500</pasengersCapacity>
+        <ticketPrice currency="PLN">6</ticketPrice>
+    </transport>
+</transports>
