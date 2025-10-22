@@ -34,7 +34,7 @@
     {
       "name": "Saturn",
       "diameter": 116460,
-      distance_from_sun": 1434,
+      "distance_from_sun": 1434,
       "moons": 82,
       "has_rings": "True"
     },
